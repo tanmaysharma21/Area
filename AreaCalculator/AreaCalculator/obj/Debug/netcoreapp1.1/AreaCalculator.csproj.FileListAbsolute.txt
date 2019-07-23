@@ -1,0 +1,10 @@
+C:\tavisca_training\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.deps.json
+C:\tavisca_training\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.runtimeconfig.json
+C:\tavisca_training\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.runtimeconfig.dev.json
+C:\tavisca_training\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.dll
+C:\tavisca_training\AreaCalculator\AreaCalculator\bin\Debug\netcoreapp1.1\AreaCalculator.pdb
+C:\tavisca_training\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.csprojResolveAssemblyReference.cache
+C:\tavisca_training\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\tavisca_training\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.AssemblyInfo.cs
+C:\tavisca_training\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.dll
+C:\tavisca_training\AreaCalculator\AreaCalculator\obj\Debug\netcoreapp1.1\AreaCalculator.pdb
