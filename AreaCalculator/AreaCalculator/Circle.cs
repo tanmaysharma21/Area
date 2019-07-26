@@ -4,9 +4,9 @@ using System.Text;
 
 namespace AreaCalculator
 {
-    public class Circle : Shapes
+    public class Circle : Shape
     {
-        int radius;
+        public int radius;
         public Circle(int radius)
         {
             this.radius = radius;

@@ -1,0 +1,10 @@
+C:\tavisca_training\Delegates\Delegates\Delegates\bin\Debug\netcoreapp1.1\Delegates.deps.json
+C:\tavisca_training\Delegates\Delegates\Delegates\bin\Debug\netcoreapp1.1\Delegates.runtimeconfig.json
+C:\tavisca_training\Delegates\Delegates\Delegates\bin\Debug\netcoreapp1.1\Delegates.runtimeconfig.dev.json
+C:\tavisca_training\Delegates\Delegates\Delegates\bin\Debug\netcoreapp1.1\Delegates.dll
+C:\tavisca_training\Delegates\Delegates\Delegates\bin\Debug\netcoreapp1.1\Delegates.pdb
+C:\tavisca_training\Delegates\Delegates\Delegates\obj\Debug\netcoreapp1.1\Delegates.csprojResolveAssemblyReference.cache
+C:\tavisca_training\Delegates\Delegates\Delegates\obj\Debug\netcoreapp1.1\Delegates.csproj.CoreCompileInputs.cache
+C:\tavisca_training\Delegates\Delegates\Delegates\obj\Debug\netcoreapp1.1\Delegates.AssemblyInfo.cs
+C:\tavisca_training\Delegates\Delegates\Delegates\obj\Debug\netcoreapp1.1\Delegates.dll
+C:\tavisca_training\Delegates\Delegates\Delegates\obj\Debug\netcoreapp1.1\Delegates.pdb

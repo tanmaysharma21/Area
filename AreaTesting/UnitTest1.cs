@@ -4,9 +4,9 @@ using Xunit;
 
 namespace AreaTesting
 {
-    public class UnitTest1
+    public class UnitTestOfAreaCalculation
     {
-        double area;
+        public double area;
 
         [Fact]
         public void CircleArea()

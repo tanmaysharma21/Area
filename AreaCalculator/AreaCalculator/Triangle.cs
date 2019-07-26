@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AreaCalculator
 {
-    public class Triangle : Shapes
+    public class Triangle : Shape
     {
         public int side1, side2, side3;
         public Triangle(int side1, int side2, int side3)

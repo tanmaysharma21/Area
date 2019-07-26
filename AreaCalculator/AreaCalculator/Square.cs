@@ -4,9 +4,9 @@ using System.Text;
 
 namespace AreaCalculator
 {
-    public class Square : Shapes
+    public class Square : Shape
     {
-        int side;
+        public int side;
         public Square(int side)
         {
             this.side = side;

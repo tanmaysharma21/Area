@@ -1,0 +1,10 @@
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\bin\Debug\netcoreapp1.1\TaxiBookingSystem.deps.json
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\bin\Debug\netcoreapp1.1\TaxiBookingSystem.runtimeconfig.json
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\bin\Debug\netcoreapp1.1\TaxiBookingSystem.runtimeconfig.dev.json
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\bin\Debug\netcoreapp1.1\TaxiBookingSystem.dll
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\bin\Debug\netcoreapp1.1\TaxiBookingSystem.pdb
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\obj\Debug\netcoreapp1.1\TaxiBookingSystem.csprojResolveAssemblyReference.cache
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\obj\Debug\netcoreapp1.1\TaxiBookingSystem.csproj.CoreCompileInputs.cache
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\obj\Debug\netcoreapp1.1\TaxiBookingSystem.AssemblyInfo.cs
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\obj\Debug\netcoreapp1.1\TaxiBookingSystem.dll
+C:\tavisca_training\TaxiBooking\TaxiBookingSystem\TaxiBookingSystem\obj\Debug\netcoreapp1.1\TaxiBookingSystem.pdb

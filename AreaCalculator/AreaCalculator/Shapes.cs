@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AreaCalculator
 {
-    public abstract class Shapes
+    public abstract class Shape
     {
         public double area;
         public abstract double CalculateArea();

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiBookingSystem", "TaxiBookingSystem\TaxiBookingSystem.csproj", "{C4C97E63-F2BB-481B-9FB8-E1263D2BBE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiBookingSystem.tests", "..\TaxiBookingSystem.tests\TaxiBookingSystem.tests.csproj", "{4336CEBB-9FF0-4402-8705-4B47326F5425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C97E63-F2BB-481B-9FB8-E1263D2BBE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C97E63-F2BB-481B-9FB8-E1263D2BBE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C97E63-F2BB-481B-9FB8-E1263D2BBE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C97E63-F2BB-481B-9FB8-E1263D2BBE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4336CEBB-9FF0-4402-8705-4B47326F5425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4336CEBB-9FF0-4402-8705-4B47326F5425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4336CEBB-9FF0-4402-8705-4B47326F5425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4336CEBB-9FF0-4402-8705-4B47326F5425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5D5287-31AE-4A3A-8228-BFFA57750664}
+	EndGlobalSection
+EndGlobal

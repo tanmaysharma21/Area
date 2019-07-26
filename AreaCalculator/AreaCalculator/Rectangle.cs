@@ -4,9 +4,9 @@ using System.Text;
 
 namespace AreaCalculator
 {
-    public class Rectangle : Shapes
+    public class Rectangle : Shape
     {
-        int length, breadth;
+        public int length, breadth;
         public Rectangle(int length, int breadth)
         {
             this.length = length;
